@@ -1,0 +1,75 @@
+.navbar-brand img{
+    width: 150px;
+    margin-left: 50px;
+}
+.features-item{
+    height: 26px;
+}
+.icon-custom{
+    color: #a71d2a;
+    margin-right: 5px;
+}
+.btn{
+    font-size: x-large;
+}
+.language-name{
+    color: #a71d2a;
+
+}
+.language-name:hover{
+    color: #4e555b;
+}
+.sort-down{
+    color: #a71d2a;
+}
+/*<<<<<<<<<<<<<navbar>>>>>>>>>>>>>*/
+.carousel-caption{
+    /*color:lavenderblush;*/
+    font-family: "fantasy";
+}
+/*.......................*/
+
+.touch{
+    padding-left: 10%;
+}
+.follow{
+    padding-left: 8%;
+}
+.img-fluid{
+    height: 500px;
+}
+.card-title{
+    text-align: center;
+    background-color:#ebffe8;
+
+    color: #a71d2a;
+}
+.showdiv-img1{
+    background-image: url('../images/Premium Deluxe Room 2.jpg.');
+    min-height: 350px;
+    background-size: cover;
+}
+
+.showdiv-text{
+    padding: 80px;
+}
+
+.showdiv-img2{
+    background-image: url('../images/Prestige One Bedroom Suite.jpg');
+    min-height: 350px;
+    background-size: cover;
+}
+.showdiv-img3{
+    background-image: url('../images/Prestige One Bedroom Suite - Rondeel  2 Resize.jpg');
+    min-height: 350px;
+    background-size: cover;
+}
+.carousel-container{
+    background-image: url("../images/a44c1ef6c836cbebe972efc6f9576b94.jpg");
+    min-height: 300px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    padding-top: 120px;
+    color: #FFFFFF;
+}
